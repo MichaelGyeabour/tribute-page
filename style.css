@@ -162,7 +162,7 @@ blockquote {
     font-style: italic;
 }
 
-.steve-jobs-quotes {
+.naval-ravikant-quotes{
     position: relative;
     background-color: #212121;
     display: flex;
@@ -171,7 +171,7 @@ blockquote {
     align-items: center;
 }
 
-.sj-quotes p {
+.naval-ravikant-quotes p {
     font-family: 'Lato', sans-serif;
     font-style: italic;
     font-size: 20px;
@@ -247,7 +247,7 @@ footer {
         margin-top: 3em;
     }
 
-    .steve-jobs-quotes {
+    .naval-ravikant-quotes{
         padding: 50px 7.5% 50px 7.5%;
     }
 
@@ -314,7 +314,7 @@ footer {
         font-size: 14px;
     }
 
-    .sj-quotes p {
+    .naval-ravikant-quotes p {
         font-size: 14px;
     }
 
